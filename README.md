@@ -1,2 +1,2 @@
-node-cors-server
-================
+node-REST-server
+==================
